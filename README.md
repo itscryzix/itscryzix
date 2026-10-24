@@ -43,7 +43,7 @@ Hi, I'm Cryzix — a Minecraft Developer and Software Developer focused on build
 
 - GitHub: https://github.com/itscryzix
 - YouTube: https://youtube.com/@Its_Cryzix
-- Discord: https://discord.gg/cryzix
+- Discord: https://discord.gg/jZTKtpVsZU
 
 «Building, learning, and creating — one project at a time.»
 
