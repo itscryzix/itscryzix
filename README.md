@@ -1,6 +1,6 @@
 <!-- Header Section with Animated Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Stark Coder&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Creator%20by%20Day%20%7C%20Hacker%20by%20Night&descAlignY=55&descAlign=50" width="100%" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Stark&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Creator%20by%20Day%20%7C%20Hacker%20by%20Night&descAlignY=55&descAlign=50" width="100%" alt="Header banner" />
 </div>
 
 <p align="center">
