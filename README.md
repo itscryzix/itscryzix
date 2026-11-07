@@ -1,6 +1,6 @@
 <!-- Header Section with Animated Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Cryzix&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Creator%20by%20Day%20%7C%20Hacker%20by%20Night&descAlignY=55&descAlign=50" width="100%" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Sᴛᴀʀᴋ Cᴏᴅᴇʀ !&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Creator%20by%20Day%20%7C%20Hacker%20by%20Night&descAlignY=55&descAlign=50" width="100%" alt="Header banner" />
 </div>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## 👨‍💻 Who Am I?
 
-Hi, I'm Cryzix — a Minecraft Developer and Software Developer focused on building Minecraft servers, hosting systems, custom plugins, web applications, and developer tools.
+Hi, I'm Sᴛᴀʀᴋ Cᴏᴅᴇʀ ! — a Minecraft Developer and Software Developer focused on building Minecraft servers, hosting systems, custom plugins, web applications, and developer tools.
 
 🚀 I enjoy turning ideas into real, functional projects with clean UI, reliable backend systems, and modern technologies.
 
@@ -42,7 +42,7 @@ Hi, I'm Cryzix — a Minecraft Developer and Software Developer focused on build
 🌐 Connect With Me
 
 - GitHub: https://github.com/itscryzix
-- YouTube: https://youtube.com/@Its_Cryzix
+- YouTube: https://youtube.com/@StarkCoder
 - Discord: https://discord.gg/jZTKtpVsZU
 
 «Building, learning, and creating — one project at a time.»
@@ -51,7 +51,7 @@ Hi, I'm Cryzix — a Minecraft Developer and Software Developer focused on build
 ```yaml
 class Cryzix:
     def __init__(self):
-        self.username    = "Cryzix"
+        self.username    = "Sᴛᴀʀᴋ Cᴏᴅᴇʀ !"
         self.role        = "Web Developer & Reverse Engineer"
         self.building    = ["Websites", "Web Apps", "Custom Android APKs"]
         self.breaking    = ["Reverse Engineering", "App Modding", "Security Bypassing"]
