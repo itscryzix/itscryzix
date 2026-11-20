@@ -102,7 +102,7 @@ class Cryzix:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MixyOx-6&theme=tokyonight&hide_border=true&background=0D1117&ring=2575FC&fire=2575FC&currStreakNum=ffffff&sideNums=2575FC&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itscryzix&theme=tokyonight&hide_border=true&background=0D1117&ring=2575FC&fire=2575FC&currStreakNum=ffffff&sideNums=2575FC&cache_seconds=1800" alt="GitHub Streak" />
 </div>
 
 <p align="center">
